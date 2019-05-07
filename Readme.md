@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Артем Троцкий](https://up.htmlacademy.ru/htmlcss/25/user/1025195).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Панасюк](https://htmlacademy.ru/profile/sasha_oldsport)
 
 ---
 
